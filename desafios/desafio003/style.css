@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+main{
+    background-color: #84e1ad;
+}
+section#caixa{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 20px 20px;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: auto;
+}
+p#cabecalho{
+    text-align: center;
+}
+
+article#youtube{
+    background-color: rgb(3, 36, 3);
+    margin: auto;
+    padding: 10px 10px;
+}
+
+header{
+    background-color: rgb(2, 82, 2);
+    padding: 10px;
+    height: 172px;
+    border: 2px;
+    margin: auto;
+}
+
+a{
+    color: rgb(6, 133, 6);
+}
+
+h2{
+    background-color: linear-gradient(10deg green black);
+    width: auto;
+    margin: auto;
+    padding: 1px 10px;
+}
